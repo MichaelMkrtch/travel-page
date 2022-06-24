@@ -1,49 +1,49 @@
 #hero {
-    height: 800px;
-    background-image: url("/images/places/ocean.jpeg");
-    background-position: center;
-    background-size: cover;
+  height: 800px;
+  background-image: url('/images/places/ocean.jpeg');
+  background-position: center;
+  background-size: cover;
 }
 
 #hero-content {
-    width: 900px;
-    background-color: rgba(51, 47, 47, 0.8);
-    box-shadow: 2px 4px 8px rgb(68, 67, 67);
-    border-radius: 8px;
-    text-align: center;
-    padding: 50px 0;
-    margin: 0 auto;
-    position: relative;
-    top: 200px;
+  width: 900px;
+  background-color: rgba(51, 47, 47, 0.8);
+  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  border-radius: 8px;
+  text-align: center;
+  padding: 50px 0;
+  margin: 0 auto;
+  position: relative;
+  top: 200px;
 }
 
 #hero-content h1 {
-    color: white;
-    font-family: "Raleway", sans-serif;
-    font-size: 50px;
-    text-transform: uppercase;
-    margin: 0;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  margin: 0;
 }
 
 #hero-content p {
-    color: white;
-    font-size: 24px;
-    font-weight: 300;
-    text-transform: uppercase;
-    margin-bottom: 32px;
+  color: white;
+  font-size: 24px;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-bottom: 32px;
 }
 
 #hero-content a {
-    background-color: rgb(255, 251, 0);
-    color: black;
-    font-weight: 700;
-    font-size: 24px;
-    text-decoration: none;
-    padding: 12px 24px;
-    border-radius: 8px;
-    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  background-color: rgb(255, 251, 0);
+  color: black;
+  font-weight: 700;
+  font-size: 24px;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  box-shadow: 2px 4px 8px rgb(68, 67, 67);
 }
 
 #hero-content a:hover {
-    background-color: rgb(255, 238, 0);
+  background-color: rgb(255, 238, 0);
 }
